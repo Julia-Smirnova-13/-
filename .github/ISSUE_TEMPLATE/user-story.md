@@ -2,7 +2,7 @@
 name: User Story
 about: Your user story
 title: User Story
-labels: ТРПО
+labels: User Story
 assignees: Julia-Smirnova-13
 
 ---
